@@ -1540,11 +1540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/davi/Documentos/Csharp/WebApplication1/WebApplication1.csproj",
+      "projectUniqueName": "/home/davi/Documentos/Trabalho Faculdade /Login/apiLogin/WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "/home/davi/Documentos/Csharp/WebApplication1/WebApplication1.csproj",
+      "projectPath": "/home/davi/Documentos/Trabalho Faculdade /Login/apiLogin/WebApplication1.csproj",
       "packagesPath": "/home/davi/.nuget/packages/",
-      "outputPath": "/home/davi/Documentos/Csharp/WebApplication1/obj/",
+      "outputPath": "/home/davi/Documentos/Trabalho Faculdade /Login/apiLogin/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/davi/.nuget/NuGet/NuGet.Config"

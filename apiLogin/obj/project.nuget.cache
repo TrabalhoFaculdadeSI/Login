@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K6wMMADkT7BpGFEy0HYh/QKP1BV1HbhQyk6Q4EMQXAAwDCVUNt8crs3/D41vMT9Xujy3pYwyvpStA2kbmfYPQg==",
+  "dgSpecHash": "fWIgspj4LZP0YvQ/X8crC+Ay4gpXYP9BHR0KdrmCCV5fPfghoLJa+gbUSl6bHbnCiQKVtogDwP83krIioB7yuQ==",
   "success": true,
-  "projectFilePath": "/home/davi/Documentos/Csharp/WebApplication1/WebApplication1.csproj",
+  "projectFilePath": "/home/davi/Documentos/Trabalho Faculdade /Login/apiLogin/WebApplication1.csproj",
   "expectedPackageFiles": [
     "/home/davi/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/davi/.nuget/packages/microsoft.aspnetcore.openapi/8.0.12/microsoft.aspnetcore.openapi.8.0.12.nupkg.sha512",
