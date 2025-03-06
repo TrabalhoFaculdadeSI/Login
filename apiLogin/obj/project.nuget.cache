@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fWIgspj4LZP0YvQ/X8crC+Ay4gpXYP9BHR0KdrmCCV5fPfghoLJa+gbUSl6bHbnCiQKVtogDwP83krIioB7yuQ==",
+  "dgSpecHash": "O5JJU7HNN17USLmsTB/lDaUfplPm9JfD7h9QxX+AsFoVKfgBuZtCWZfMkYKhaw0hTw7PbjDYYbgwt8scE9/N0A==",
   "success": true,
   "projectFilePath": "/home/davi/Documentos/Trabalho Faculdade /Login/apiLogin/WebApplication1.csproj",
   "expectedPackageFiles": [
@@ -36,7 +36,8 @@
     "/home/davi/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
     "/home/davi/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "/home/davi/.nuget/packages/system.identitymodel.tokens.jwt/8.6.0/system.identitymodel.tokens.jwt.8.6.0.nupkg.sha512",
-    "/home/davi/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "/home/davi/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/davi/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.12/microsoft.netcore.app.host.linux-x64.8.0.12.nupkg.sha512"
   ],
   "logs": []
 }
